@@ -1,7 +1,7 @@
 # AWS_Projects
 
 ## Step 1: Set Up an S3 Bucket for Website Hosting
-1.1. Create an S3 Bucket
+1.1. Create an S3 bucket.
 Log in to your AWS Management Console.
 Navigate to S3 and click Create bucket.
 Enter a Bucket name (e.g., my-website-bucket) and select a region.
